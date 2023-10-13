@@ -1,0 +1,8 @@
+*Install Git is to set your user name and email address. 
+*This is important because every Git commit uses this information.
+
+$ git config --global user.name "Pravin"
+$ git config --global user.email aug25praveen@hotmail.com
+
+* check your configuration settings
+git config --list
